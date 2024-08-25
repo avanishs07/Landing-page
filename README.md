@@ -1,3 +1,1 @@
-# Landing-page
-
-this project is the landing page that i have created
+Link to the project https://landing-page-jua5xwcs4-avanish-shuklas-projects.vercel.app/
